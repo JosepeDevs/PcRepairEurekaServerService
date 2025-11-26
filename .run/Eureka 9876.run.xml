@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Eureka 9876" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="21" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <envs>
+      <env name="EUREKA_INSTANCE_HOSTNAME" value="localhost" />
+      <env name="SERVER_PORT" value="9876" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.josepedevs.EurekaServerService.EurekaServerServiceApplication" />
+    <module name="EurekaServerService" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
